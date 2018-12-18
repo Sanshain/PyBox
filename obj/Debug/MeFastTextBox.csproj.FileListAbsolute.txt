@@ -1,0 +1,11 @@
+E:\Projects\MeFastTextBox\MeFastTextBox\bin\Debug\MeFastTextBox.exe
+E:\Projects\MeFastTextBox\MeFastTextBox\bin\Debug\MeFastTextBox.pdb
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.csprojResolveAssemblyReference.cache
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.FasTBox.resources
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.FastTextBox.resources
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.MainTestForm.resources
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.Properties.Resources.resources
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.csproj.GenerateResource.Cache
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.csproj.CoreCompileInputs.cache
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.exe
+E:\Projects\MeFastTextBox\MeFastTextBox\obj\Debug\MeFastTextBox.pdb
